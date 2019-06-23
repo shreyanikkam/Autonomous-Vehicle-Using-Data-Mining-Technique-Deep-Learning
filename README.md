@@ -52,7 +52,7 @@ Upon evaluating the model and finding out the Loss and Accuracy, we have made th
 - **val_loss**: 0.0198
 - **val_acc**: 0.9940
 
-*As seen in graph below*
+*As seen in graph below* :
 ![](eval.png)
 
 So, upon optimizing, we have determined the following values:
